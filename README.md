@@ -1,7 +1,7 @@
 # python_bidirectional_stepwise_selection
 Automated Bidirectional Stepwise Selection 
 
-This script is about the automated bidirectional stepwise selection. You can easily apply on Dataframes. The function returns not only the final features but also elimination iterations, so you can track what exactly happened at the iterations.
+This script is about the automated bidirectional stepwise selection. You can easily apply on Dataframes. This function returns not only the final features but also elimination iterations, so you can track what exactly happened at the iterations.
 
 You can apply it on both Linear and Logistic problems and easily define stay and enter p-value limits. Eliminations can be applied with Akaike information criterion (AIC), Bayesian information criterion (BIC), R-squared (Only works with linear), Adjusted R-squared (Only works with linear). Also, you don't have to worry about varchar variables, the code will handle it for you.
 Enjoy the code!
