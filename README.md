@@ -11,3 +11,5 @@ Plase let me know if there is any logic erros or bugs in the code !
 Required Libraries: pandas, numpy, statmodels
 
 See more about stepwise regression : https://en.wikipedia.org/wiki/Stepwise_regression
+
+Thanks @talhahascelik for base forward selection codes!
