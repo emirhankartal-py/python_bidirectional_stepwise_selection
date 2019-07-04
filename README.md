@@ -12,4 +12,4 @@ Required Libraries: pandas, numpy, statmodels
 
 See more about stepwise regression : https://en.wikipedia.org/wiki/Stepwise_regression
 
-Thanks @talhahascelik for base forward selection codes!
+Thanks to @talhahascelik for base forward selection codes!
